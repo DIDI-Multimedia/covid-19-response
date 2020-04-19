@@ -25,6 +25,7 @@ function draw() {
     rotateZ(frameCount * 0.005 + mouseY * 0.001)
     let radius = width / 4
     sphere(radius,8,8)
+    strokeWeight(3)
 
     spores.forEach(s => s.display(radius))
 
