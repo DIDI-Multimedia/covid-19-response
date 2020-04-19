@@ -8,6 +8,9 @@ $pad: 20px;
 */
 
 
+a{
+  color: #F79C8B !important;
+}
 .title{
 	color: white;
 }

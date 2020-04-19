@@ -20,12 +20,12 @@ function setup() {
 
 function draw() {
     background('#F04E30')
-    scale(Math.abs(sin(frameCount*0.001))*0.5+0.75)
+    scale(Math.abs(sin(frameCount*0.01))*0.5+0.75)
     rotateX(frameCount * 0.005 + mouseX * 0.001)
     rotateZ(frameCount * 0.005 + mouseY * 0.001)
     let radius = width / 4
     sphere(radius,8,8)
-    strokeWeight(3)
+    strokeWeight(1)
 
     spores.forEach(s => s.display(radius))
 
@@ -43,10 +43,11 @@ function Spore(i,j,j) {
         rotateY(this.ry)
         
         translate(0, -radius, 0)
-        cone(radius / 16, radius/2,4);
+        cone(radius / 16, radius/3,4);
         push()
-        translate(0, -radius*0.3, 0)
-        sphere(radius / 16,4,4)
+        stroke(255,100)
+        translate(0, -radius*0.2, 0)
+        sphere(radius / 16,6,6)
         pop()
         pop()
 
