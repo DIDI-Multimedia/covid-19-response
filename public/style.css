@@ -9,7 +9,8 @@ $pad: 20px;
 
 
 a{
-  color: #F79C8B !important;
+  /*color: #F79C8B !important;*/
+  color: black;
 }
 .title{
 	color: white;
@@ -65,11 +66,25 @@ h3,p{
 }
 .col-1-8 {
 	width: 12.5%;
+
 }
 
+.button{
+
+}
+.button:hover{
+
+  color: #F79C8B !important;
+
+
+}
+.module:hover{
+
+}
 .module {
 	width: 75%;
   padding: 3%;
+
   /*height:200px;*/
   /*background: #eee;*/
 }
@@ -141,7 +156,9 @@ h1{
 body{
 	position: relative;
 
-	padding:5%;
+	padding-left: 5%;
+
+  padding-right: 5%;
 	/*padding-left: 50%;*/
 	font-family: 'Cairo', sans-serif;
 	font-weight: 400;
