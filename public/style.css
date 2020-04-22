@@ -1,11 +1,9 @@
-/*@import "compass/css3";*/
-/*
-* {
-  @include box-sizing(border-box);
-}
-
-$pad: 20px;
-*/
+.my_youtube_embed {
+        -moz-box-shadow: rgba(0, 0, 0, 0.4) 3px 3px 10px;
+        -webkit-box-shadow: rgba(0, 0, 0, 0.4) 3px 3px 10px;
+        -o-box-shadow: rgba(0, 0, 0, 0.4) 3px 3px 10px;
+        box-shadow: rgba(0, 0, 0, 0.4) 3px 3px 10px;
+    }
 
 
 a{
