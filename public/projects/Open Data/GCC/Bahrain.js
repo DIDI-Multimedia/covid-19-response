@@ -1,11 +1,14 @@
 let data =  {
 
     MAR: {
-
-        20: {
+       
+        25:1,
+        26:0,
+        27:0,
+        28: {
             
             deaths: 7
-            infected: 994   
+            infected: 994
             }
 
         29: ,
