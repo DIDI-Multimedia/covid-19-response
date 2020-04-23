@@ -1,24 +1,40 @@
-INFECTED:  cases
+let data =  {
 
-DEATHS:
-Age: 
-Gender : 
-Nationality: 
+    MAR: {
 
+        20: {
+            
+            deaths: 2
+            infected: 10
+            }
 
+        29: 1,
+        30: 2,
+        31: 1,
 
+    },
 
-By Date:
+    APR: {
 
-MAR 
-	
-APR
+        1: 2,
+        3: 1,
+        4: 1,
+        6: 1,
+        7: 1,
+        9: 2,
+        10: 2,
+        11: 4,
+        12: 2,
+        13: 3,
+        14: 3,
+        15: 5,
+        16: 2,
+        17: 2,
+        17: 2,
 
-MAY
-JUN
-JUL
-AUG
-SEP
-OCT
-NOV
-DEC
+    },
+
+    MAY: {},
+    JUN: {},
+
+}

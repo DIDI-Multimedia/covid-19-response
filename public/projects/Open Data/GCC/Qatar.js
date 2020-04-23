@@ -1,37 +1,40 @@
-INFECTED: 8 cases
+let data =  {
 
-DEATHS:
-Age: 88
-Gender : M
-Nationality: Qatari
+    MAR: {
 
-Age: 42
-Gender : 
-Nationality: 
+        20: {
+            
+            deaths: 2
+            infected: 10
+            }
 
-Age: 58
-Gender : M
-Nationality: 
+        29: 1,
+        30: 2,
+        31: 1,
 
-Age: 57
-Gender : 
-Nationality: Bangaladish
+    },
 
-Age: 59
-Gender : M
-Nationality: 
+    APR: {
 
-By Date:
+        1: 2,
+        3: 1,
+        4: 1,
+        6: 1,
+        7: 1,
+        9: 2,
+        10: 2,
+        11: 4,
+        12: 2,
+        13: 3,
+        14: 3,
+        15: 5,
+        16: 2,
+        17: 2,
+        17: 2,
 
-MAR 
-	
-APR
-	
-MAY
-JUN
-JUL
-AUG
-SEP
-OCT
-NOV
-DEC
+    },
+
+    MAY: {},
+    JUN: {},
+
+}
