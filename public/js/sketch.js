@@ -59,6 +59,6 @@ function Spore(i, j, j) {
 
 function windowResized() {
 
-  resizeCanvas(windowWidth, windowHeight);
+  resizeCanvas(windowWidth / 8, windowWidth / 8, WEBGL)
 
 }
