@@ -1,0 +1,20 @@
+body{
+
+font-family: 'Source Code Pro', monospace;
+	z-index: 25;
+	position: relative;
+	color:white;
+}
+
+#p5{
+	position: absolute;
+}
+#stats{
+
+	position: relative;
+
+}
+
+#display{
+
+}
