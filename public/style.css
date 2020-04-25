@@ -6,6 +6,14 @@
     }
 
 
+hr{
+  /*padding: 1vh;*/
+  height: 1px;
+  color: black;
+  background-color: black;
+  border: none;
+}
+
 a{
   /*color: #F79C8B !important;*/
   color: black;
@@ -31,6 +39,28 @@ h3,p{
   }*/
 }
 
+button:focus {outline:0;}
+
+ button.link {
+
+  background:none;
+  border:none; 
+  font-family: 'Cairo', sans-serif;
+  font-weight: 400;
+  font-size: 1.5vh;
+
+}
+button.link:hover {
+cursor: pointer;
+background-color: #FABD44;
+}
+
+.headline{
+  font-size: 10vh !important;
+}
+img{
+  padding: 1vw;
+}
 [class*='col-'] {
 	float: left;
 /*  padding-right: $pad;
