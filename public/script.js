@@ -3,7 +3,7 @@ console.log('load JQUERY')
 
 let toggle = true
 
-const description = "In December 2019, a novel coronavirus strain (SARS-CoV-2) emerged in the city of Wuhan, China. This website documents the response of the Dubai Instute of Design and Innovation  (DIDI) to the global crisis."
+const description = ["In December 2019, a novel coronavirus strain (SARS-CoV-2) emerged in the city of Wuhan, China."," This website documents the response of the Dubai Instute of Design and Innovation  (DIDI) to the Corona Virus Pandemic."]
 
 
 
@@ -35,9 +35,10 @@ const descriptions = [
 ]
 
 const teams = [
+	"Aysha, Shamma, Rafif, Nivea Noronha, Abdelrahman, Rana, Alyazia, Asma, Anika, Jawahir, Hussain D., Moza, Hala, Noora, Shouq, Akshat, Hussain A., Maryam H., Dalal",
 
-	"Shamma, Rafif, Nivea Noronha, Abdelrahman, Rana, Alyazia, Asma, Anika, Jawahir, Hussain D., Moza, Hala, Noora, Shouq, Akshat, Hussain A., Maryam H., Dalal",
-	"Hoor Bakhit, Ahsan Murad, Baazim, Phillip, Shahzaadee, Fatima A, Maryam, Shamma A, Latifa Alsuwaidi, Meera, Mariam A, Aysha A, Arnav, Zeina, Mohammad, Yangkai",
+"Amber, Hoor Bakhit, Ahsan Murad, Baazim, Phillip, Shahzaadee, Fatima A, Maryam, Shamma A, Latifa Alsuwaidi, Meera, Mariam A, Aysha A, Arnav, Zeina, Mohammad, Yangkai",
+
 	"Sana, Aditi, Noor, Nour, Agma, Waleed, Latifa Alkhouri, Valeria, Alexandra, Media, Zaver, Dalilah"
 
 ]
@@ -79,7 +80,7 @@ window.onload = function() {
 
     var typed = new Typed('#message', {
 
-        strings: ['<i>jQuery</i> Script.', description],
+        strings: ['<i>jQuery</i> Script.', description[0],description[1]],
         typeSpeed: 0,
 
 

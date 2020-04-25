@@ -24,7 +24,8 @@ function draw() {
     rotateX(frameCount * 0.005 + mouseX * 0.001)
     rotateZ(frameCount * 0.005 + mouseY * 0.001)
     let radius = width / 4
-    sphere(radius, 8, 8)
+    stroke(0,100)
+    sphere(radius, 24, 24)
     strokeWeight(1)
 
     spores.forEach(s => s.display(radius))
@@ -45,7 +46,7 @@ function Spore(i, j, j) {
         translate(0, -radius, 0)
         cone(radius / 16, radius / 3, 4);
         push()
-        stroke(255, 100)
+        stroke(0, 100)
         translate(0, -radius * 0.2, 0)
         sphere(radius / 16, 6, 6)
         pop()
