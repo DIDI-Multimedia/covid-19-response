@@ -28,8 +28,9 @@ const subProjects = ['CoLive20', null, 'ProteC19']
 
 const projectDescriptions = [
 
+ 'coming soon',
     "CoLive 20 is a digital platform that serves as an online interactive community and emotional data repository. During this unusual experience of social isolation, our service aims to connect community members through online activities. While promoting inclusion and connection in this era of social isolation, Colive-20 simultaneously serves as a digital museum for future reflection by documenting the emotional impacts of this new normal. The collected emotional data will also be useful for examining mental health impacts of the epidemic. Our solution is responding to the current mental health emergency by providing people an elevated method to form connections, empathize with others and encourage shared experiences in this time of crisis.",
-    'coming soon',
+
     'coming soon'
 
 ]
