@@ -46,9 +46,9 @@ function Spore(i, j, j) {
         translate(0, -radius, 0)
         cone(radius / 16, radius / 3, 4);
         push()
-        stroke(0, 100)
+        stroke(255, 100)
         translate(0, -radius * 0.2, 0)
-        sphere(radius/8)
+        sphere(radius/8,4,4)
         pop()
         pop()
 

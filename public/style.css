@@ -1,3 +1,46 @@
+/* OUTER CONTAINER */
+.tcontainer {
+  width: 100%;
+  overflow: hidden; /* Hide scroll bar */
+}
+ 
+/* MIDDLE CONTAINER */
+.ticker-wrap {
+  width: 100%;
+  padding-left: 100%; /* Push contents to right side of screen */
+  /*background-color: #000;*/
+}
+.ticker-text{
+    font-family: 'Share Tech Mono', monospace;
+
+}
+/* INNER CONTAINER */
+@keyframes ticker {
+  0% { transform: translate3d(0, 0, 0); }
+  100% { transform: translate3d(-100%, 0, 0); }
+}
+.ticker-move {
+  /* Basically move items from right side of screen to left in infinite loop */
+  display: inline-block;
+  white-space: nowrap;
+  padding-right: 100%;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-name: ticker;
+  animation-duration: 60s;
+}
+.ticker-move:hover{
+  animation-play-state: paused; /* Pause scroll on mouse hover */
+}
+
+/* ITEMS */
+.ticker-item{
+  display: inline-block; /* Lay items in a horizontal line */
+  padding: 0 10rem;
+  color: white;
+}
+
+
 .my_youtube_embed {
         -moz-box-shadow: rgba(0, 0, 0, 0.4) 3px 3px 10px;
         -webkit-box-shadow: rgba(0, 0, 0, 0.4) 3px 3px 10px;
@@ -39,13 +82,44 @@ h3,p{
   }*/
 }
 
+
+.frame{
+
+    height: 10vh;      /* equals max image height */
+/*    line-height: 25px;
+    width: 160px;*/
+    /*border: 1px solid red;*/
+    /*text-align: center; margin: 1em 0;*/
+
+
+}
+.shield{
+  /*float: left;*/
+  /*vertical-align: middle;*/
+  /*padding: 0 !important;*/
+  /*vertical-align: middle !important;*/
+  /*max-height: 25px;*/
+  /*max-width: 160px;*/
+  height: 5vh;
+    padding:1px;
+   border:1px solid #021a40;
+
+}
+.title{
+   vertical-align: middle;
+   /*padding-left: 1%;*/
+     /*text-align: center;*/
+}
+
 button:focus {outline:0;}
 
  button.link {
 
   background:none;
   border:none; 
-  font-family: 'Cairo', sans-serif;
+  padding-left: 1%;
+    font-family: 'Share Tech Mono', monospace;
+  /*font-family: 'Cairo', sans-serif;*/
   font-weight: 400;
   font-size: 1.5vh;
 
@@ -66,7 +140,7 @@ background-color: #FABD44;
   font-size: 10vh !important;
 }
 img{
-  padding: 1vw;
+  /*padding: 1vw;*/
 }
 [class*='col-'] {
 	float: left;
@@ -183,7 +257,8 @@ img{
 }*/
 
 h1{
-	font-family: 'Cairo', sans-serif;
+	/*font-family: 'Cairo', sans-serif;*/
+  font-family: 'Share Tech Mono', monospace;
 	font-weight: 700;	
 	color: white;
 }
@@ -195,7 +270,9 @@ body{
 
   padding-right: 5%;
 	/*padding-left: 50%;*/
-	font-family: 'Cairo', sans-serif;
+	/*font-family: 'Cairo', sans-serif;*/
+    /*font-family: 'Share Tech Mono', monospace;*/
+    font-family: 'Share', cursive;
 	font-weight: 400;
 	/*color: white;*/
 	background-color: #F04E30;

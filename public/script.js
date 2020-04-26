@@ -4,7 +4,7 @@ console.log('load JQUERY')
 let toggle = true
 
 const description = ["In December 2019, a novel coronavirus strain (SARS-CoV-2) emerged in the city of Wuhan, China.", " This website documents the response of the Dubai Instute of Design and Innovation  (DIDI) to the Corona Virus Pandemic."]
-
+const shields =['black_virus','white_virus','orange_virus']
 
 
 $("#test").click(function() {
@@ -24,7 +24,7 @@ $("#test").click(function() {
 
 });
 
-const subProjects = ['CoLive20', null, 'ProteC19']
+const subProjects = ['Constellations_of_Rememberance','CoLive20', 'ProteC19']
 
 const projectDescriptions = [
 
@@ -39,7 +39,8 @@ const projectDescriptions = [
 const projectLinks = {
 
     CoLive20: 'https://www.youtube.com/embed/cte12oz9wBE',
-    ProteC19: null
+    ProteC19: null,
+    Constellations_of_Rememberance:'https://www.youtube.com/embed/RWijiK_UPww',
 
 }
 
@@ -49,17 +50,15 @@ const projects = ["OPEN DATA INTERFACES", "DESIGN FOR EMERGENCY", "HACKING MANUF
 
 const descriptions = [
 
-    "This project uses interactive design, emerging technologies and data gathering, processing and visualization to articulate better sense-making tools and generate new insights about Covid-19 as a glocal challenge [global + local]",
-    "This project uses an agile approach to the quick mapping of problem-spaces and the design of fast solutions that can unblock the bottlenecks of current social infrastructures in the areas of health, transportation, and logistics.",
-    "This project curates open source resources and hacks for agile manufacturing of urgent solutions to Covid-19 that take into account the advantages of distributed manufacturing to address the urgent needs of healthcare professionals."
+    "Open Data Interfaces uses interactive design, emerging technologies and data gathering, processing and visualization to articulate better sense-making tools and generate new insights about Covid-19 as a glocal challenge [global + local]",
+    "Design for Emergency uses an agile approach to the quick mapping of problem-spaces and the design of fast solutions that can unblock the bottlenecks of current social infrastructures in the areas of health, transportation, and logistics.",
+    "Hacking and Manufacture curates open source resources and hacks for agile manufacturing of urgent solutions to Covid-19 that take into account the advantages of distributed manufacturing to address the urgent needs of healthcare professionals."
 
 ]
 
 const teams = [
     "Aysha, Shamma, Rafif, Nivea Noronha, Abdelrahman, Rana, Alyazia, Asma, Anika, Jawahir, Hussain D., Moza, Hala, Noora, Shouq, Akshat, Hussain A., Maryam H., Dalal",
-
     "Amber, Hoor Bakhit, Ahsan Murad, Baazim, Phillip, Shahzaadee, Fatima A, Maryam, Shamma A, Latifa Alsuwaidi, Meera, Mariam A, Aysha A, Arnav, Zeina, Mohammad, Yangkai",
-
     "Sana, Aditi, Noor, Nour, Agma, Waleed, Latifa Alkhouri, Valeria, Alexandra, Media, Zaver, Dalilah"
 
 ]
@@ -103,13 +102,13 @@ window.onload = function() {
 
 
 
-    var typed = new Typed('#message', {
+    // var typed = new Typed('#message', {
 
-        strings: ['<i>jQuery</i> Script.', description[0], description[1]],
-        typeSpeed: 0,
+    //     strings: ['<i>jQuery</i> Script.', description[0], description[1],descriptions[0],descriptions[1],descriptions[2],description[1]],
+    //     typeSpeed: 0,
 
 
-    });
+    // });
 
 
 
@@ -138,6 +137,8 @@ window.onload = function() {
             .replace('_C', i + '_proj')
             .replace('Description Text', descriptions[i])
             .replace('Team Text', teams[i])
+            .replace('shieldimg', shields[i])
+
 
 
 
@@ -177,7 +178,7 @@ window.onload = function() {
 
             $(element).fadeOut()
 
-            if (bol) fadeOutArr(['#message', '#sketch-div'])
+            if (bol) fadeOutArr(['#message', '#sketch-div','.tcontainer','.col-template'])
 
 
         } else {
@@ -186,7 +187,7 @@ window.onload = function() {
 
             updateProject(parseInt(data[0]))
 
-            if (bol) fadeInArr(['#message', '#sketch-div'])
+            if (bol) fadeInArr(['#message', '#sketch-div','.tcontainer','.col-template'])
 
 
         }
@@ -196,9 +197,12 @@ window.onload = function() {
 
     $("#project-close").click(function() {
 
+
         $('#project').fadeOut()
         $('#sketch-div').fadeIn()
         $('#message').fadeIn()
+        $('.tcontainer').fadeIn()
+        $('.col-template').fadeIn()
 
 
     });
