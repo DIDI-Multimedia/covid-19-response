@@ -57,7 +57,8 @@ font-size: 1.25vh !important;
 }
 button.link:hover {
 cursor: pointer;
-background-color: #FABD44;
+/*background-color: #FABD44;*/
+background-color: #000;
 }
 
 .headline{
@@ -197,6 +198,8 @@ body{
 	font-weight: 400;
 	/*color: white;*/
 	background-color: #F04E30;
+}
+  /*background-color: #000;*/
 /*	padding-right: 20%;
 	padding-top: 5%;
 
