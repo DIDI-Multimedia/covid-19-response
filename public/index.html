@@ -3,11 +3,9 @@
 	
 	<head>
 		<title> DIDI Covid Response </title>
-
 		<head>
-  <link rel="shortcut icon" type="image/x-icon" href="coronavirus.png" />
-</head>
-
+			<link rel="shortcut icon" type="image/x-icon" href="coronavirus.png" />
+		</head>
 		<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/p5.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/addons/p5.dom.min.js"></script>
@@ -20,7 +18,6 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
-
 		<div class="grid">
 			<div class="grid grid-pad">
 				<div class="col-1-4">
@@ -32,76 +29,85 @@
 				<!-- <hr> -->
 				<div class="module">
 					<h1> DIDI Agile Factory </h1>
-					<p id="message" style="height: 3vh;"><em></em></p>
-<!-- 
-						<iframe id="player" type="text/html" width="100%" height="100%" 
-						src="https://youtu.be/cte12oz9wBE"
-						frameborder="0" allowfullscreen> -->
-
-<!-- 						<iframe id="player" width="560" height="315" src="https://www.youtube.com/embed/cte12oz9wBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<h3 id="message" style="height: 2vh;"><em></em></h3>
+		
+					<div id="project">
+						<hr>
+						<br>
+						<h3 id="project-title"><b></b></h3>
+						
+						<iframe id="player" width="540px" height="320px" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</iframe>
+
 						<br/>
+
 						<a href="#" id="play-fullscreen">Play full screen</a>
- -->
-					</div>
-					<hr>
-				</div>
-			
-			</div>
+				
+						
+						<p class="micro" id="project-description"> </p>
+						
+						
 
-			<div id="project titles">
-
-				<div class="grid grid-pad">
-					<div class="col-1-4">
-						<div class="module">
-							<div id="sketch-div"></div>
-						</div>
-					</div>
-					<div id="target"></div>
-					<!-- 					<div class="col-1-4">
-						<div class="module">
-							<h3>DESIGN FOR EMERGENCY</h3>
-							<hr>
-						</div>
-					</div>
-					<div class="col-1-4">
-						<div class="module">
-							<h3>OPEN DATA INTERFACES</h3>
-							<hr>
-						</div>
-					</div>
-					<div class="col-1-4">
-						<div class="module">
-							<h3>HACKING MANUFACTURE</h3>
-							<hr>
-						</div>
-					</div>
-				</div> -->
-			</div>
-			
-			<script id="template" type="text/html">
-			
-			<!-- <p>Use the <strong data-content="power"></strong>, <span data-content="name"></span>!</p> -->
-			
-			<div class="col-1-4">
-				<div class="module">
-					<h1> project title </h1>
-					<hr>
+						<br>
+						<button class="link" id="project-close"> <b> Close </b> </button>
 					
-					<p><button class='link' id="_A"> <b> Description </b> </button></b></p>
-					<p id="_A1"class="micro"> Description Text </p>
-					<hr>
-					<p><button class='link'  id="_B"> <b> Team </b></button></p>
-					<p id="_B1"class="micro"> Team Text </p>
-					<hr>
-					<p><button class='link' id="_C"> <b> Projects </b> </button></p>
-					<hr>
+					</div>
 				</div>
-			
+				<hr>
 			</div>
-			</script>
-			<script src="js/sketch.js"></script>
-			<script src="script.js"></script>
 			
-		</body>
-	</html>
+		</div>
+		<div id="project titles">
+			<div class="grid grid-pad">
+				<div class="col-1-4">
+					<div class="module">
+						<div id="sketch-div"></div>
+					</div>
+				</div>
+				<div id="target"></div>
+				<!-- 					<div class="col-1-4">
+					<div class="module">
+						<h3>DESIGN FOR EMERGENCY</h3>
+						<hr>
+					</div>
+				</div>
+				<div class="col-1-4">
+					<div class="module">
+						<h3>OPEN DATA INTERFACES</h3>
+						<hr>
+					</div>
+				</div>
+				<div class="col-1-4">
+					<div class="module">
+						<h3>HACKING MANUFACTURE</h3>
+						<hr>
+					</div>
+				</div>
+			</div> -->
+		</div>
+		
+		<script id="template" type="text/html">
+		
+		<!-- <p>Use the <strong data-content="power"></strong>, <span data-content="name"></span>!</p> -->
+		
+		<div class="col-1-4">
+			<div class="module">
+				<h1> project title </h1>
+				<hr>
+				<p><button class='link' id="_A"> <b> Description </b> </button></b></p>
+				<p id="_A1"class="micro"> Description Text </p>
+				<hr>
+				<p><button class='link'  id="_B"> <b> Team </b></button></p>
+				<p id="_B1"class="micro"> Team Text </p>
+				<hr>
+				<p><button class='link' id="_C"> <b> Projects </b> </button></p>
+				<hr>
+			</div>
+			
+		</div>
+		</script>
+		<script src="js/sketch.js"></script>
+		<script src="script.js"></script>
+		
+	</body>
+</html>
