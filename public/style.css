@@ -57,8 +57,9 @@ font-size: 1.25vh !important;
 }
 button.link:hover {
 cursor: pointer;
-/*background-color: #FABD44;*/
-background-color: #000;
+
+background-color: #FABD44;
+/*background-color: #000;?*/
 }
 
 .headline{
