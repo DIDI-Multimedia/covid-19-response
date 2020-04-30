@@ -38,9 +38,10 @@ const projectDescriptions = [
 
 const projectLinks = {
 
-    CoLive20: 'https://www.youtube.com/embed/cte12oz9wBE',
-    ProteC19: null,
+
     Constellations_of_Rememberance:'https://www.youtube.com/embed/RWijiK_UPww',
+    CoLive20: 'https://www.youtube.com/embed/cte12oz9wBE',
+    ProteC19: 'https://www.youtube.com/watch?v=oT26vv8KRRU&feature=youtu.be',
 
 }
 
