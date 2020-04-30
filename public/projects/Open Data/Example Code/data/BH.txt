@@ -1,0 +1,704 @@
+[
+    {
+        "day": "26",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "25",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "24",
+        "month": "4",
+        "deaths": "1",
+        "country": "Bahrain"
+    },
+    {
+        "day": "23",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "22",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "21",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "20",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "19",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "18",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "17",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "16",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "15",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "14",
+        "month": "4",
+        "deaths": "1",
+        "country": "Bahrain"
+    },
+    {
+        "day": "13",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "12",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "11",
+        "month": "4",
+        "deaths": "1",
+        "country": "Bahrain"
+    },
+    {
+        "day": "10",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "9",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "8",
+        "month": "4",
+        "deaths": "1",
+        "country": "Bahrain"
+    },
+    {
+        "day": "7",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "6",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "5",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "4",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "3",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "2",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "1",
+        "month": "4",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "31",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "30",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "29",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "28",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "27",
+        "month": "3",
+        "deaths": "1",
+        "country": "Bahrain"
+    },
+    {
+        "day": "26",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "25",
+        "month": "3",
+        "deaths": "1",
+        "country": "Bahrain"
+    },
+    {
+        "day": "24",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "23",
+        "month": "3",
+        "deaths": "1",
+        "country": "Bahrain"
+    },
+    {
+        "day": "22",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "21",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "20",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "19",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "18",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "17",
+        "month": "3",
+        "deaths": "1",
+        "country": "Bahrain"
+    },
+    {
+        "day": "16",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "15",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "14",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "13",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "12",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "11",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "10",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "9",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "8",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "7",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "6",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "5",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "4",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "2",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "1",
+        "month": "3",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "29",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "28",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "27",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "26",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "25",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "24",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "23",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "22",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "21",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "20",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "19",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "18",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "17",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "16",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "15",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "14",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "13",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "12",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "11",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "10",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "9",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "8",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "7",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "6",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "5",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "4",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "3",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "2",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "1",
+        "month": "2",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "31",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "30",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "29",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "28",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "27",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "26",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "25",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "24",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "23",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "22",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "21",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "20",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "19",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "18",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "17",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "16",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "15",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "14",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "13",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "12",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "11",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "10",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "9",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "8",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "7",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "6",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "5",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "4",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "3",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "2",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "1",
+        "month": "1",
+        "deaths": "0",
+        "country": "Bahrain"
+    },
+    {
+        "day": "31",
+        "month": "12",
+        "deaths": "0",
+        "country": "Bahrain"
+    }
+]

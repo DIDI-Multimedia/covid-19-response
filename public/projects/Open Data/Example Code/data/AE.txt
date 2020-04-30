@@ -1,0 +1,674 @@
+[
+    {
+        "day": "26",
+        "month": "4",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "25",
+        "month": "4",
+        "deaths": "8",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "24",
+        "month": "4",
+        "deaths": "4",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "23",
+        "month": "4",
+        "deaths": "6",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "22",
+        "month": "4",
+        "deaths": "3",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "21",
+        "month": "4",
+        "deaths": "2",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "20",
+        "month": "4",
+        "deaths": "4",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "19",
+        "month": "4",
+        "deaths": "2",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "18",
+        "month": "4",
+        "deaths": "2",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "17",
+        "month": "4",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "16",
+        "month": "4",
+        "deaths": "5",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "15",
+        "month": "4",
+        "deaths": "3",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "14",
+        "month": "4",
+        "deaths": "3",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "13",
+        "month": "4",
+        "deaths": "2",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "12",
+        "month": "4",
+        "deaths": "4",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "11",
+        "month": "4",
+        "deaths": "2",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "10",
+        "month": "4",
+        "deaths": "2",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "9",
+        "month": "4",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "8",
+        "month": "4",
+        "deaths": "1",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "7",
+        "month": "4",
+        "deaths": "1",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "6",
+        "month": "4",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "5",
+        "month": "4",
+        "deaths": "2",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "4",
+        "month": "4",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "3",
+        "month": "4",
+        "deaths": "2",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "2",
+        "month": "4",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "1",
+        "month": "4",
+        "deaths": "1",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "31",
+        "month": "3",
+        "deaths": "3",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "30",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "29",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "28",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "27",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "26",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "25",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "24",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "23",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "22",
+        "month": "3",
+        "deaths": "2",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "21",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "20",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "19",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "18",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "17",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "16",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "15",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "13",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "11",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "10",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "8",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "6",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "4",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "2",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "1",
+        "month": "3",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "29",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "28",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "27",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "26",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "25",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "24",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "23",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "22",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "21",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "20",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "19",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "18",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "17",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "16",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "15",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "14",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "13",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "12",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "11",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "10",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "9",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "8",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "7",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "6",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "5",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "4",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "3",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "2",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "1",
+        "month": "2",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "31",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "30",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "29",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "28",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "27",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "26",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "25",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "24",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "23",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "22",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "21",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "20",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "19",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "18",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "17",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "16",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "15",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "14",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "13",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "12",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "11",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "10",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "9",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "8",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "7",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "6",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "5",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "4",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "3",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "2",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "1",
+        "month": "1",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    },
+    {
+        "day": "31",
+        "month": "12",
+        "deaths": "0",
+        "country": "United_Arab_Emirates"
+    }
+]

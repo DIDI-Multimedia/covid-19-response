@@ -1,0 +1,3996 @@
+[
+    [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        [
+            {
+                "day": "1",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "1",
+                "month": "3",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "1",
+                "month": "3",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "1",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "1",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "1",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "1",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "2",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "2",
+                "month": "3",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "2",
+                "month": "3",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "2",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "2",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "2",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "2",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [],
+        [
+            {
+                "day": "3",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "3",
+                "month": "3",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "3",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "3",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "day": "3",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "4",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "day": "4",
+                "month": "3",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "day": "4",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "4",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        []
+    ],
+    [
+        [],
+        [],
+        [],
+        [
+            {
+                "day": "5",
+                "month": "3",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "5",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "5",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [],
+        []
+    ],
+    [
+        [
+            {
+                "day": "6",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "6",
+                "month": "3",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "6",
+                "month": "3",
+                "deaths": "2",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "6",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "6",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "6",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "6",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [],
+        [],
+        [
+            {
+                "day": "7",
+                "month": "3",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "day": "7",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "7",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        []
+    ],
+    [
+        [
+            {
+                "day": "8",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "8",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "8",
+                "month": "3",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "8",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "8",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "8",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "8",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [],
+        [],
+        [
+            {
+                "day": "9",
+                "month": "3",
+                "deaths": "1",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "9",
+                "month": "3",
+                "deaths": "4",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "9",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "9",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "9",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "9",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "10",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "10",
+                "month": "3",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "10",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "10",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "10",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "10",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "10",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "11",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "11",
+                "month": "3",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "11",
+                "month": "3",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "11",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "11",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "11",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "11",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "11",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [],
+        [],
+        [
+            {
+                "day": "12",
+                "month": "3",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "12",
+                "month": "3",
+                "deaths": "2",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "12",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "12",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "12",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "12",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "13",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "13",
+                "month": "3",
+                "deaths": "1",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "13",
+                "month": "3",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "13",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "13",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [],
+        [
+            {
+                "day": "13",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [],
+        [],
+        [
+            {
+                "day": "14",
+                "month": "3",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "14",
+                "month": "3",
+                "deaths": "1",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "14",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "14",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "14",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "14",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "14",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "15",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "3",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "3",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "16",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "3",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "3",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "17",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "3",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "3",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "3",
+                "deaths": "1",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "18",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "3",
+                "deaths": "2",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "3",
+                "deaths": "2",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "19",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "3",
+                "deaths": "2",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "3",
+                "deaths": "1",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "20",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "3",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "3",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "21",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "3",
+                "deaths": "1",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "3",
+                "deaths": "2",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "22",
+                "month": "3",
+                "deaths": "2",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "3",
+                "deaths": "1",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "3",
+                "deaths": "3",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "23",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "3",
+                "deaths": "2",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "3",
+                "deaths": "3",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "3",
+                "deaths": "1",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "24",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "3",
+                "deaths": "4",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "3",
+                "deaths": "3",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "25",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "3",
+                "deaths": "5",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "3",
+                "deaths": "4",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "3",
+                "deaths": "1",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "3",
+                "deaths": "1",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "26",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "3",
+                "deaths": "2",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "3",
+                "deaths": "2",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "3",
+                "deaths": "1",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "27",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "27",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "27",
+                "month": "3",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "27",
+                "month": "3",
+                "deaths": "7",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "27",
+                "month": "3",
+                "deaths": "1",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "27",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "27",
+                "month": "3",
+                "deaths": "1",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "27",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "27",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "28",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "28",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "28",
+                "month": "3",
+                "deaths": "3",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "28",
+                "month": "3",
+                "deaths": "4",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "28",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "28",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "28",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "28",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "28",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "29",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "29",
+                "month": "3",
+                "deaths": "1",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "29",
+                "month": "3",
+                "deaths": "6",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "29",
+                "month": "3",
+                "deaths": "2",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "29",
+                "month": "3",
+                "deaths": "1",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "29",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "29",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "29",
+                "month": "3",
+                "deaths": "1",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "29",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "30",
+                "month": "3",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "30",
+                "month": "3",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "30",
+                "month": "3",
+                "deaths": "6",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "30",
+                "month": "3",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "30",
+                "month": "3",
+                "deaths": "4",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "30",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "30",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "30",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "30",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "31",
+                "month": "3",
+                "deaths": "3",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "31",
+                "month": "3",
+                "deaths": "4",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "31",
+                "month": "3",
+                "deaths": "4",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "31",
+                "month": "3",
+                "deaths": "4",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "31",
+                "month": "3",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "31",
+                "month": "3",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "31",
+                "month": "3",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "31",
+                "month": "3",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "31",
+                "month": "3",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        [
+            {
+                "day": "1",
+                "month": "4",
+                "deaths": "1",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "1",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "1",
+                "month": "4",
+                "deaths": "1",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "1",
+                "month": "4",
+                "deaths": "4",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "1",
+                "month": "4",
+                "deaths": "2",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "1",
+                "month": "4",
+                "deaths": "1",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "1",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "1",
+                "month": "4",
+                "deaths": "1",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "1",
+                "month": "4",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "2",
+                "month": "4",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "2",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "2",
+                "month": "4",
+                "deaths": "5",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "2",
+                "month": "4",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "2",
+                "month": "4",
+                "deaths": "6",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "2",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "2",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "2",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "2",
+                "month": "4",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "3",
+                "month": "4",
+                "deaths": "2",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "3",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "3",
+                "month": "4",
+                "deaths": "6",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "3",
+                "month": "4",
+                "deaths": "4",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "3",
+                "month": "4",
+                "deaths": "5",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "3",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "3",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "3",
+                "month": "4",
+                "deaths": "1",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "3",
+                "month": "4",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "4",
+                "month": "4",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "4",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "4",
+                "month": "4",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "4",
+                "month": "4",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "4",
+                "month": "4",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "4",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "4",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "4",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "4",
+                "month": "4",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "5",
+                "month": "4",
+                "deaths": "2",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "5",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "5",
+                "month": "4",
+                "deaths": "14",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "5",
+                "month": "4",
+                "deaths": "2",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "5",
+                "month": "4",
+                "deaths": "8",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "5",
+                "month": "4",
+                "deaths": "1",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "5",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "5",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "5",
+                "month": "4",
+                "deaths": "1",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "6",
+                "month": "4",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "6",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "6",
+                "month": "4",
+                "deaths": "5",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "6",
+                "month": "4",
+                "deaths": "5",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "6",
+                "month": "4",
+                "deaths": "5",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "6",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "6",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "6",
+                "month": "4",
+                "deaths": "1",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "6",
+                "month": "4",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "7",
+                "month": "4",
+                "deaths": "1",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "7",
+                "month": "4",
+                "deaths": "1",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "7",
+                "month": "4",
+                "deaths": "7",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "7",
+                "month": "4",
+                "deaths": "3",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "7",
+                "month": "4",
+                "deaths": "4",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "7",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "7",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "7",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "7",
+                "month": "4",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "8",
+                "month": "4",
+                "deaths": "1",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "8",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "8",
+                "month": "4",
+                "deaths": "7",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "8",
+                "month": "4",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "8",
+                "month": "4",
+                "deaths": "3",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "8",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "8",
+                "month": "4",
+                "deaths": "1",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "8",
+                "month": "4",
+                "deaths": "2",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "8",
+                "month": "4",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "9",
+                "month": "4",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "9",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "9",
+                "month": "4",
+                "deaths": "18",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "9",
+                "month": "4",
+                "deaths": "5",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "9",
+                "month": "4",
+                "deaths": "0",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "9",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "9",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "9",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "9",
+                "month": "4",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "10",
+                "month": "4",
+                "deaths": "2",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "10",
+                "month": "4",
+                "deaths": "1",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "10",
+                "month": "4",
+                "deaths": "15",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "10",
+                "month": "4",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "10",
+                "month": "4",
+                "deaths": "3",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "10",
+                "month": "4",
+                "deaths": "1",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "10",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "10",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "10",
+                "month": "4",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "11",
+                "month": "4",
+                "deaths": "2",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "11",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "11",
+                "month": "4",
+                "deaths": "17",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "11",
+                "month": "4",
+                "deaths": "1",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "11",
+                "month": "4",
+                "deaths": "3",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "11",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "11",
+                "month": "4",
+                "deaths": "1",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "11",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "11",
+                "month": "4",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "12",
+                "month": "4",
+                "deaths": "4",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "12",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "12",
+                "month": "4",
+                "deaths": "11",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "12",
+                "month": "4",
+                "deaths": "2",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "12",
+                "month": "4",
+                "deaths": "5",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "12",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "12",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "12",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "12",
+                "month": "4",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "13",
+                "month": "4",
+                "deaths": "2",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "13",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "13",
+                "month": "4",
+                "deaths": "13",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "13",
+                "month": "4",
+                "deaths": "4",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "13",
+                "month": "4",
+                "deaths": "7",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "13",
+                "month": "4",
+                "deaths": "1",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "13",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "13",
+                "month": "4",
+                "deaths": "1",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "13",
+                "month": "4",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "14",
+                "month": "4",
+                "deaths": "3",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "14",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "14",
+                "month": "4",
+                "deaths": "5",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "14",
+                "month": "4",
+                "deaths": "2",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "14",
+                "month": "4",
+                "deaths": "6",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "14",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "14",
+                "month": "4",
+                "deaths": "1",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "14",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "14",
+                "month": "4",
+                "deaths": "1",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "15",
+                "month": "4",
+                "deaths": "3",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "4",
+                "deaths": "14",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "4",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "4",
+                "deaths": "8",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "15",
+                "month": "4",
+                "deaths": "1",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "16",
+                "month": "4",
+                "deaths": "5",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "4",
+                "deaths": "5",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "4",
+                "deaths": "1",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "4",
+                "deaths": "6",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "16",
+                "month": "4",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "17",
+                "month": "4",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "4",
+                "deaths": "13",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "4",
+                "deaths": "1",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "4",
+                "deaths": "4",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "17",
+                "month": "4",
+                "deaths": "0",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "18",
+                "month": "4",
+                "deaths": "2",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "4",
+                "deaths": "9",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "4",
+                "deaths": "1",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "4",
+                "deaths": "4",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "4",
+                "deaths": "2",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "18",
+                "month": "4",
+                "deaths": "2",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "19",
+                "month": "4",
+                "deaths": "2",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "4",
+                "deaths": "19",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "4",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "4",
+                "deaths": "5",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "4",
+                "deaths": "1",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "19",
+                "month": "4",
+                "deaths": "1",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "20",
+                "month": "4",
+                "deaths": "4",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "4",
+                "deaths": "15",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "4",
+                "deaths": "1",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "4",
+                "deaths": "5",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "4",
+                "deaths": "1",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "20",
+                "month": "4",
+                "deaths": "1",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "21",
+                "month": "4",
+                "deaths": "2",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "4",
+                "deaths": "11",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "4",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "4",
+                "deaths": "6",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "4",
+                "deaths": "1",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "4",
+                "deaths": "1",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "21",
+                "month": "4",
+                "deaths": "2",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "22",
+                "month": "4",
+                "deaths": "3",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "4",
+                "deaths": "14",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "4",
+                "deaths": "1",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "4",
+                "deaths": "6",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "22",
+                "month": "4",
+                "deaths": "2",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "23",
+                "month": "4",
+                "deaths": "6",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "4",
+                "deaths": "0",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "4",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "4",
+                "deaths": "5",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "4",
+                "deaths": "1",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "23",
+                "month": "4",
+                "deaths": "2",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "24",
+                "month": "4",
+                "deaths": "4",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "4",
+                "deaths": "12",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "4",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "4",
+                "deaths": "7",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "4",
+                "deaths": "1",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "4",
+                "deaths": "1",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "24",
+                "month": "4",
+                "deaths": "1",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "25",
+                "month": "4",
+                "deaths": "8",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "4",
+                "deaths": "18",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "4",
+                "deaths": "3",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "4",
+                "deaths": "6",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "4",
+                "deaths": "1",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "25",
+                "month": "4",
+                "deaths": "1",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "day": "26",
+                "month": "4",
+                "deaths": "0",
+                "country": "United_Arab_Emirates"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "4",
+                "deaths": "0",
+                "country": "Jordan"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "4",
+                "deaths": "13",
+                "country": "Egypt"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "4",
+                "deaths": "0",
+                "country": "Iraq"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "4",
+                "deaths": "9",
+                "country": "Saudi_Arabia"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "4",
+                "deaths": "0",
+                "country": "Oman"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "4",
+                "deaths": "0",
+                "country": "Bahrain"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "4",
+                "deaths": "0",
+                "country": "Qatar"
+            }
+        ],
+        [
+            {
+                "day": "26",
+                "month": "4",
+                "deaths": "4",
+                "country": "Kuwait"
+            }
+        ]
+    ],
+    [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ]
+]
