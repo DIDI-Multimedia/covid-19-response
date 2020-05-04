@@ -1,0 +1,1 @@
+router.post('/api/adds', requests.addads);
