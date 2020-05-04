@@ -1,0 +1,288 @@
+/* OUTER CONTAINER */
+.tcontainer {
+  width: 100%;
+  overflow: hidden; /* Hide scroll bar */
+}
+ 
+/* MIDDLE CONTAINER */
+.ticker-wrap {
+  width: 100%;
+  padding-left: 100%; /* Push contents to right side of screen */
+  /*background-color: #000;*/
+}
+.ticker-text{
+    font-family: 'Share Tech Mono', monospace;
+
+}
+/* INNER CONTAINER */
+@keyframes ticker {
+  0% { transform: translate3d(0, 0, 0); }
+  100% { transform: translate3d(-100%, 0, 0); }
+}
+.ticker-move {
+  /* Basically move items from right side of screen to left in infinite loop */
+  display: inline-block;
+  white-space: nowrap;
+  padding-right: 100%;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-name: ticker;
+  animation-duration: 60s;
+}
+.ticker-move:hover{
+  animation-play-state: paused; /* Pause scroll on mouse hover */
+}
+
+/* ITEMS */
+.ticker-item{
+  display: inline-block; /* Lay items in a horizontal line */
+  padding: 0 10rem;
+  color: white;
+}
+
+
+.my_youtube_embed {
+        -moz-box-shadow: rgba(0, 0, 0, 0.4) 3px 3px 10px;
+        -webkit-box-shadow: rgba(0, 0, 0, 0.4) 3px 3px 10px;
+        -o-box-shadow: rgba(0, 0, 0, 0.4) 3px 3px 10px;
+        box-shadow: rgba(0, 0, 0, 0.4) 3px 3px 10px;
+    }
+
+
+hr{
+  /*padding: 1vh;*/
+  height: 1px;
+  color: black;
+  background-color: black;
+  border: none;
+}
+
+a{
+  /*color: #F79C8B !important;*/
+  color: black;
+}
+.title{
+	color: white;
+}
+h2{
+	color: white;
+}
+h3,p{
+	color: black;
+}
+.grid {
+  /*background: white;*/
+  /*margin: 0 0 $pad 0;*/
+  
+  /*&:after {*/
+    /* Or @extend clearfix */
+/*    content: "";
+    display: table;
+    clear: both;
+  }*/
+}
+
+
+.frame{
+
+    height: 10vh;      /* equals max image height */
+/*    line-height: 25px;
+    width: 160px;*/
+    /*border: 1px solid red;*/
+    /*text-align: center; margin: 1em 0;*/
+
+
+}
+.shield{
+  /*float: left;*/
+  /*vertical-align: middle;*/
+  /*padding: 0 !important;*/
+  /*vertical-align: middle !important;*/
+  /*max-height: 25px;*/
+  /*max-width: 160px;*/
+  height: 5vh;
+    padding:1px;
+   border:1px solid #021a40;
+
+}
+.title{
+   vertical-align: middle;
+   /*padding-left: 1%;*/
+     /*text-align: center;*/
+}
+
+button:focus {outline:0;}
+
+ button.link {
+
+  background:none;
+  border:none; 
+  padding-left: 1%;
+    font-family: 'Share Tech Mono', monospace;
+  /*font-family: 'Cairo', sans-serif;*/
+  font-weight: 400;
+  font-size: 1.5vh;
+
+}
+
+.micro{
+font-size: 1.25vh !important;
+
+}
+button.link:hover {
+cursor: pointer;
+
+background-color: #FABD44;
+/*background-color: #000;?*/
+}
+
+.headline{
+  font-size: 10vh !important;
+}
+img{
+  /*padding: 1vw;*/
+}
+[class*='col-'] {
+	float: left;
+/*  padding-right: $pad;
+  .grid &:last-of-type {
+  	padding-right: 20px;
+  }*/
+}
+.row-1{
+	/*height: 30%;*/
+
+}
+.col-2-3 {
+	width: 66.66%;
+}
+.col-1-3 {
+	width: 33.33%;
+	height: 50%;
+
+}
+
+.col-3-4 {
+	width: 75%;
+}
+
+
+.col-1-2 {
+	width: 50%;
+}
+.col-1-4 {
+	width: 25%;
+}
+.col-1-8 {
+	width: 12.5%;
+
+}
+
+.button{
+
+}
+.button:hover{
+
+  color: #F79C8B !important;
+
+
+}
+.module:hover{
+
+}
+.module {
+	width: 75%;
+  padding: 3%;
+
+  /*height:200px;*/
+  /*background: #eee;*/
+}
+
+/* Opt-in outside padding */
+.grid-pad {
+/*  padding: $pad 0 $pad $pad;
+  [class*='col-']:last-of-type {
+    padding-right: $pad;
+  }*/
+}
+
+/*body {
+	padding: 10px 50px 200px;
+  background: url(https://s.cdpn.io/3/dark_wall_@2X.png);
+  background-size: 300px 300px;
+}*/
+/*h1 {
+  color: white;
+  em {
+  	color: #666;
+    font-size: 16px;
+  }
+}*/
+
+/*[class*='col-'] {
+  float: left;
+}
+.col-2-3 {
+  width: 33.33%;
+}
+.col-1-3 {
+  width: 66.66%;
+}
+
+.grid:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+[class*='col-'] {
+  padding-right: 20px;
+}
+[class*='col-']:last-of-type {
+  padding-right: 0;
+}
+
+.grid-pad {
+  padding: 20px 0 20px 20px;
+}
+
+.grid-pad > [class*='col-']:last-of-type {
+  padding-right: 20px;
+}
+
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}*/
+
+h1{
+	/*font-family: 'Cairo', sans-serif;*/
+  font-family: 'Share Tech Mono', monospace;
+	font-weight: 700;	
+	color: white;
+}
+
+body{
+	position: relative;
+
+	padding-left: 5%;
+
+  padding-right: 5%;
+	/*padding-left: 50%;*/
+	/*font-family: 'Cairo', sans-serif;*/
+    /*font-family: 'Share Tech Mono', monospace;*/
+    font-family: 'Share', cursive;
+	font-weight: 400;
+	/*color: white;*/
+	background-color: #F04E30;
+}
+  /*background-color: #000;*/
+/*	padding-right: 20%;
+	padding-top: 5%;
+
+}
+
+ul {
+    list-style-type: none;
+}*/

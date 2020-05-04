@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+	
+	<head>
+		<title> DIDI Covid Response </title>
+		<head>
+			<link rel="shortcut icon" type="image/x-icon" href="coronavirus.png" />
+		</head>
+		<link href="https://fonts.googleapis.com/css2?family=Share:ital,wght@1,400;1,700&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/p5.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/addons/p5.dom.min.js"></script>
+		<script src="https://code.jquery.com/jquery-3.5.0.min.js" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/typed.js@latest/lib/typed.min.js"></script>
+		<script src="https://css-tricks.com/examples/Loadingdotdotdot/js/jquery.loadingdotdotdot.js"></script>
+		<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+		<script src="
+		https://codepb.github.io/jquery-template/jquery.loadTemplate-0.4.3.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<div class="tcontainer"><div class="ticker-wrap"><div class="ticker-move">
+		<div class="ticker-item"><a class="ticker-text"style="color:white!important" target="_blank" href="https://medium.com/dubai-institute-of-design-and-innovation/introducing-didis-agile-factory-cd5432ee6209?source=friends_link&sk=809a86d28df411a560e26df692eeeef5">Introducing DIDI’s Agile Factory:<i>Innovating for Emergency<i></a></div>
+		<div class="ticker-item"><a class="ticker-text"style="color:white!important" target="_blank" href="https://medium.com/dubai-institute-of-design-and-innovation/can-you-didify-this-fe0cefdd66a5?source=friends_link&sk=594ab01da219af7a71acce0923e51dfb">Can you DIDIfy this? <i>
+		An Open Letter to the DIDI Community</i></a></div>
+		<div class="ticker-item"><a class="ticker-text"style="color:white!important" target="_blank" href="https://medium.com/dubai-institute-of-design-and-innovation/infusing-new-energy-in-the-lab-1de86bf52ab1?source=friends_link&sk=2f0db7089bac7d17f252bda008fc7694">Infusing New Energy in the Lab</i></a></div>
+	</div></div></div>
+	<body>
+		<div class="grid">
+			<div class="grid grid-pad">
+				<div class="col-1-4">
+					<div class="module" style="height: 10vh;">
+
+						<img src="assets/didi_orange.png" height="100px;"style="float: left;padding-left: 20%;padding-top: 5%;"></div>
+					</div>
+				</div>
+				<div class="col-3-4">
+					<!-- <hr> -->
+					<div class="module">
+						<h1> DIDI Agile Factory </h1>
+						<!-- <h3 id="message" style="height: 2vh;"><em></em></h3> -->
+						
+						<div id="project">
+							<hr>
+							<br>
+							
+							<iframe id="player" width="540px" height="320px" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							</iframe>
+							<!-- <br/> -->
+							
+							<!-- <br> -->
+							<br>
+							<h2 id="project-title"><b></b></h2>
+							
+							<p  id="project-description"> </p>
+							<button class="link" id='play-fullscreen'> <b> Full-Screen </b> </button>
+							<button class="link" id="project-close"> <b> [X] </b> </button>
+							<br>
+							<br>
+							<hr>
+							
+						</div>
+					</div>
+					
+				</div>
+				
+			</div>
+			<div id="project titles">
+				<div class="grid grid-pad">
+					<div class="col-1-4">
+						<div class="module">
+							<div id="sketch-div"></div>
+						</div>
+					</div>
+					<div id="target"></div>
+					<!-- 					<div class="col-1-4">
+						<div class="module">
+							<h3>DESIGN FOR EMERGENCY</h3>
+							<hr>
+						</div>
+					</div>
+					<div class="col-1-4">
+						<div class="module">
+							<h3>OPEN DATA INTERFACES</h3>
+							<hr>
+						</div>
+					</div>
+					<div class="col-1-4">
+						<div class="module">
+							<h3>HACKING MANUFACTURE</h3>
+							<hr>
+						</div>
+					</div>
+				</div> -->
+			</div>
+			
+			<script id="template" type="text/html">
+			
+			<!-- <p>Use the <strong data-content="power"></strong>, <span data-content="name"></span>!</p> -->
+			
+			<div class="col-1-4">
+				<div class="module">
+					<img class="shield" src="assets/shieldimg.jpg">
+					<h1 class=glow> project title </h1>
+					
+					<!-- <div class ="col-template"> -->
+					<hr>
+					<p><button class='link' id="_A"> <b> Description </b> </button></b></p>
+					<p id="_A1"class="micro"> Description Text </p>
+					<hr>
+					<p><button class='link'  id="_B"> <b> Team </b></button></p>
+					<p id="_B1"class="micro"> Team Text </p>
+					<hr>
+					<p><button class='link' id="_C"> <b> Projects </b> </button></p>
+					<hr>
+				<!-- </div> -->
+			</div>
+		</div>
+			</script>
+			
+			<script src="js/sketch.js"></script>
+			<script src="script.js"></script>
+			
+		</body>
+	</html>
