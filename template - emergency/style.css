@@ -44,11 +44,11 @@ a{
 }
 
 a:hover {
-  color: white;
+  color: #F04E30;;
 }
 
 h2{
-	color: white;
+	color: black
 }
 
 h3,p{
@@ -69,6 +69,7 @@ h3,p{
 }
 .title{
    vertical-align: middle;
+   color: black;
    /*padding-left: 1%;*/
      /*text-align: center;*/
 }
@@ -182,7 +183,7 @@ h1{
 
   font-family: 'Share', cursive;
 	font-weight: 700;	
-	color: white;
+	color: black;
 
 }
 
@@ -193,6 +194,7 @@ body{
   padding-right: 3%;
   font-family: 'Share', cursive;
 	font-weight: 400;
-	background-color: #F04E30;
+  /*background-color: #CDCDCD;*/
+	/*background-color: #F04E30;*/
 
 }

@@ -5,7 +5,9 @@
   text-align: center;
 }
 
+
 #links{
+
   padding-top: 10%;
   padding-left: 5%;
   position: absolute;
@@ -40,19 +42,24 @@ hr{
 
 a{
   /*color: #F79C8B !important;*/
-  color: black;
+  
+  color: #F04E30;;
 }
 
 a:hover {
-  color: white;
+color: white;
 }
 
 h2{
 	color: white;
 }
 
-h3,p{
-	color: black;
+h3{
+	color: white;
+}
+
+p{
+  color: silver;
 }
 
 .frame{
@@ -64,10 +71,11 @@ h3,p{
 .shield{
   height: 5vh;
     padding:1px;
-   border:1px solid #021a40;
+   border:1px solid white;
 
 }
 .title{
+
    vertical-align: middle;
    /*padding-left: 1%;*/
      /*text-align: center;*/
@@ -77,7 +85,7 @@ button:focus {
   outline:0;
 }
 
- button{
+button{
 
   background:none;
   border:none; 
@@ -93,7 +101,6 @@ button:focus {
   display: block !important;
 
 }
-
 
 .micro{
 font-size: 1.25vh !important;
@@ -187,12 +194,14 @@ h1{
 }
 
 body{
-
+  color: white;
 	position: relative;
 	padding-left: 3%;
   padding-right: 3%;
   font-family: 'Share', cursive;
 	font-weight: 400;
-	background-color: #F04E30;
+	/*background-color: #F04E30;*/
+    background-color: #000;
+
 
 }
