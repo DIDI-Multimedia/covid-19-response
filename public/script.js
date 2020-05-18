@@ -87,21 +87,21 @@ window.onload = function() {
     $('#project').hide()
 
     // Call.loadTemplate() on the target container
-    var fullscreen = document.getElementById('play-fullscreen'),
-        player = document.getElementById('player');
+    // var fullscreen = document.getElementById('play-fullscreen')
+    var player = document.getElementById('player')
 
-    fullscreen.addEventListener('click', function(e) {
-        if (~player.src.indexOf('?')) player.src += '&autoplay=1';
-        else player.src += '?autoplay=1';
+    // fullscreen.addEventListener('click', function(e) {
+    //     if (~player.src.indexOf('?')) player.src += '&autoplay=1';
+    //     else player.src += '?autoplay=1';
 
-        var req = player.requestFullscreen ||
-            player.webkitRequestFullscreen ||
-            player.mozRequestFullScreen ||
-            player.msRequestFullscreen;
+    //     var req = player.requestFullscreen ||
+    //         player.webkitRequestFullscreen ||
+    //         player.mozRequestFullScreen ||
+    //         player.msRequestFullscreen;
 
-        req.call(player);
-        e.preventDefault();
-    });
+    //     req.call(player);
+    //     e.preventDefault();
+    // });
 
 
 
@@ -149,8 +149,8 @@ window.onload = function() {
         element.innerHTML = a
         target.appendChild(element)
 
-        let hidden = "#" + i + '_desc_text'
-        $(hidden).hide()
+        // let hidden = "#" + i + '_desc_text'
+        // $(hidden).hide()
         hidden = "#" + i + '_team_text'
         $(hidden).hide()
 
@@ -181,7 +181,7 @@ window.onload = function() {
 
             $(element).fadeOut()
 
-            if (bol) fadeOutArr(['#message', '#sketch-div', '.tcontainer', '.col-template'])
+            if (bol) fadeOutArr(['#message', '#sketch-div', '.col-template'])//'.tcontainer'
 
 
         } else {
@@ -190,7 +190,7 @@ window.onload = function() {
 
             updateProject(parseInt(data[0]))
 
-            if (bol) fadeInArr(['#message', '#sketch-div', '.tcontainer', '.col-template'])
+            if (bol) fadeInArr(['#message', '#sketch-div', '.col-template']) //'.tcontainer'
 
 
         }

@@ -277,6 +277,9 @@ h1{
 	color: white;
 }
 
+p{
+     /*font-family: 'Share', cursive;*/
+}
 body{
 	position: relative;
 
@@ -285,7 +288,7 @@ body{
   padding-right: 5%;
 	/*padding-left: 50%;*/
 	/*font-family: 'Cairo', sans-serif;*/
-    /*font-family: 'Share Tech Mono', monospace;*/
+    font-family: 'Share Tech Mono', monospace;
     font-family: 'Share', cursive;
 	font-weight: 400;
 	/*color: white;*/
