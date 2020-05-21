@@ -163,6 +163,10 @@ fly-in-text {
   line-height: 1.8;
   letter-spacing: 3.5px;
   word-spacing: 1.5px;
+  transition: 0.5s;
+  transform-origin: left;
+  
+
 
 
   
