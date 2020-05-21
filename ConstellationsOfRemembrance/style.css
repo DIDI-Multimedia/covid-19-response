@@ -13,10 +13,10 @@
   min-width: 100%; 
   min-height: 100%;
   }
-body {
+/*body {
 	
   background: linear-gradient(to right, #00001a,#000033);
-}
+}*/
 
 .header {
   padding: 60px;
