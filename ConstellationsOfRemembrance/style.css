@@ -3,7 +3,7 @@
 	font-family: 'Helvetica Light';
   font-style: oblique;
   cursor:url('nyan_cat.png');
-  z-index: 1;
+  
 
 }
 /*#myVideo {
@@ -98,7 +98,7 @@ fly-in-text {
             }
             .fly-in-text li:last-child {
                 margin-right: 0;
-                
+
             }
             .fly-in-text.hidden li {
                 opacity: 0;
