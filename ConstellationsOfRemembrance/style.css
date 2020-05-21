@@ -3,6 +3,7 @@
 	font-family: 'Helvetica Light';
   font-style: oblique;
   cursor:url('nyan_cat.png');
+
   
 
 }
@@ -154,11 +155,16 @@ fly-in-text {
 
 
 /*  height: 20%*/
-  width: 40%;
-  padding: 20px 20px;
+  width: 55%;
+  padding: 50px 50px;
   font-family: Helvetica;
   margin:0 auto;
   color: white;
+  line-height: 1.8;
+  letter-spacing: 3.5px;
+  word-spacing: 1.5px;
+
+
   
 }
 
