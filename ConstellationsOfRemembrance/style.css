@@ -179,6 +179,31 @@ fly-in-text {
   word-spacing: 1.5px;
 }
 
+  .box3{
+ width: 55%;
+  padding: 50px 50px;
+  font-family: 'Quicksand', sans-serif;
+  margin:0 auto;
+  color: white;
+  line-height: 1.8;
+  letter-spacing: 3.5px;
+  word-spacing: 1.5px;
+}
+
+  .box4{
+ width: 55%;
+  padding: 50px 50px;
+  font-family: 'Quicksand', sans-serif;
+  margin:0 auto;
+  color: white;
+  line-height: 1.8;
+  letter-spacing: 3.5px;
+  word-spacing: 1.5px;
+}
+
+
+
+
 /*a:link, a:visited {
   background-color: #FDA3C0;
   color: white;
