@@ -5,9 +5,14 @@
   font-style: oblique;
   cursor:url('nyan_cat.png');
 
-
-
 }
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  
 body {
 	
   background: linear-gradient(to right, #00001a,#000033);
