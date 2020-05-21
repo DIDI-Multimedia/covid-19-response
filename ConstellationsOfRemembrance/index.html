@@ -1,0 +1,151 @@
+<!-- HTML Example -->
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title> Welcome! <3 </title>
+
+	<!-- load processing files  -->
+	<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/p5.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/addons/p5.dom.min.js"></script> -->
+
+	<!-- load CSS -->
+	<link rel="stylesheet" type="text/css" href="style.css"> 
+	<link rel="stylesheet" href="octo.css">
+
+</head>
+
+<body>
+		<div class="header">
+			<div class ="octo"></div>
+			<a href="index.html"> <img src= "pictures/title.png" style="width: 700px;" alt="wow";> </a>
+  		</div>
+
+  		<button class="tablink" onclick="openPage('Home', this)">Home</button>
+  		<button class="tablink" onclick="openPage('About', this)">About</button>
+  		<button class="tablink" onclick="openPage('Contents', this)">Contents</button>
+  		<button class="tablink" onclick="openPage('Projects', this)">Projects</button>
+  			
+  			<div id="Home" class="tabcontent">
+
+  			<img src= "pictures/home.png" style="width: 300px;" alt="home";>
+ 			 
+			</div>
+
+
+
+
+			<div id="About" class="tabcontent">
+  			<img src= "pictures/about.png" style="width: 300px;" alt="about";>
+ 			 <p><div class="box"><p style="font-size: 15px"> Heyy!
+			This is Aysha, as you probabbly can tell I really love pastels and kawaii stuff! I am a second year student at DIDI and I love what I am studying and yet super excited to learn even more things and tackle much more difficult obstacles. Please feel free to look around, have a wonderful day! :3 </p> </div></p>
+			</div>
+
+
+
+
+
+
+			<div id="Contents" class="tabcontent">
+
+  				<img src= "pictures/contents.png" style="width: 300px;" alt="conetents";>
+ 			 	
+ 			 		
+  					 <p> 
+ 					 <a href="websites/week_01.html"> <img src="pictures/week1.jpg"style="width: 150px;" alt="red"> </a>
+
+  					 <a href="websites/week_02.html"> <img src="pictures/week2.jpg"style="width: 150px;" alt="orange"> </a>
+
+  					 <a href="websites/week_03.html"> <img src="pictures/week3.jpg"style="width: 150px;" alt="yellow"> </a>
+
+  					 <a href="websites/week_04.html"> <img src="pictures/week4.jpg"style="width: 150px;" alt="green"> </a>
+  					 </p>
+					
+
+					
+					
+				
+			</div>
+
+			<div id="Projects" class="tabcontent">
+  			<img src= "pictures/about.png" style="width: 300px;" alt="about";>
+ 			 <a href="websites/projects.html"> Project 1 Proposal </a>
+			</div>
+
+
+
+	<script type="text/javascript">
+			function openPage(pageName, elmnt, color) {
+
+  			var i, tabcontent, tablinks;
+  			tabcontent = document.getElementsByClassName("tabcontent");
+ 			 for (i = 0; i < tabcontent.length; i++) {
+    		tabcontent[i].style.display = "none";
+ 			 }
+
+
+ 			 tablinks = document.getElementsByClassName("tablink");
+ 			 for (i = 0; i < tablinks.length; i++) {
+    		tablinks[i].style.backgroundColor = "";
+  			}
+
+ 			 document.getElementById(pageName).style.display = "block";
+
+
+ 			 elmnt.style.backgroundColor = color;
+			}
+			document.getElementById("defaultOpen").click();
+	</script>
+
+	<center>
+
+
+		
+		<ul class="fly-in-text hidden" style="width: 40% color: grey;
+		text-shadow: 1px 1px 10px white; padding: 15%; font-size: 30px">
+            <li>W</li>
+            <li>E</li>
+            <li>L</li>
+            <li>C</li>
+            <li>O</li>
+            <li>M</li>
+            <li>E</li>
+        </ul>
+         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <script type="text/javascript"> 
+
+        	(function() {
+                
+                setTimeout(function() {
+                    $('.fly-in-text').removeClass('hidden');
+                }, 500);
+                
+            })(); </script>
+
+	
+	<div id="content">
+
+
+		
+		
+
+<!-- 
+
+			<h3 style="color: white; text-shadow: 1px 1px 10px white; padding: 15px;" > Aysha Alsuwaidi </h3> -->
+		
+			
+			
+             
+			
+
+		
+
+	</div>
+
+
+</center>
+</body>
+
+</html>
