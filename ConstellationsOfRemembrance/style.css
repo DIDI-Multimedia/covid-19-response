@@ -1,7 +1,7 @@
 
 #content {
 
-	font-family: 'Verdana';
+	font-family: 'Helvetica';
   font-style: oblique;
   cursor:url('nyan_cat.png');
 
@@ -15,16 +15,16 @@ body {
 
 .header {
   padding: 60px;
-
+/*
    animation: change 10s infinite;
 }
 @keyframes change{
-  0%{background-color: #F9D7ED;}
-  25%{background-color: #FBCDEB;}
-  50%{background-color: #F9D7ED;}
-  75%{background-color: #FBCDEB;}
-  100%{background-color: #F9D7ED;}
-
+  0%{background-color: #00001a;}
+  25%{background-color: #000033;}
+  50%{background-color: #000000;}
+  75%{background-color: #000033;}
+  100%{background-color: #00001a;}
+*/
   
 }
 
