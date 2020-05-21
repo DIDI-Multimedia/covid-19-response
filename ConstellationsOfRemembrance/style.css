@@ -4,6 +4,7 @@
 	font-family: 'Helvetica Light';
   font-style: oblique;
   cursor:url('nyan_cat.png');
+  z-index: 1;
 
 }
 #myVideo {
@@ -19,7 +20,7 @@
 }*/
 
 .header {
-  padding: 60px;
+  padding: 40px;
 /*
    animation: change 10s infinite;
 }
@@ -91,6 +92,7 @@ fly-in-text {
                 color: #fff;
                 opacity: 1;
                 transition: all 5s ease;
+                 
             }
             .fly-in-text li:last-child {
                 margin-right: 0;
@@ -125,7 +127,7 @@ fly-in-text {
             .fly-in-text.hidden li:nth-child(25) { transform: translateX(-150px) translateY(-80px); }
             .fly-in-text.hidden li:nth-child(26) { transform: translateX(10px) translateY(-200px); }
             .fly-in-text.hidden li:nth-child(27) { transform: translateX(-300px) translateY(200px); }
-            
+         /*   
         .octo
         {
           position: absolute;
@@ -141,7 +143,7 @@ fly-in-text {
         {
           from { background-position: 0; }
           to { background-position: -600px; }
-        }
+        }*/
 
 .box{
 
