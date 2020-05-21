@@ -1,7 +1,21 @@
 /* OUTER CONTAINER */
+
+#element{
+  
+  background-color: white; 
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  z-index: 10;
+  padding: 0px !important;
+  background-color:#F04E30;
+}
+
 .tcontainer {
+
   width: 100%;
   overflow: hidden; /* Hide scroll bar */
+
 }
  
 /* MIDDLE CONTAINER */
@@ -263,6 +277,9 @@ h1{
 	color: white;
 }
 
+p{
+     /*font-family: 'Share', cursive;*/
+}
 body{
 	position: relative;
 
@@ -271,7 +288,7 @@ body{
   padding-right: 5%;
 	/*padding-left: 50%;*/
 	/*font-family: 'Cairo', sans-serif;*/
-    /*font-family: 'Share Tech Mono', monospace;*/
+    font-family: 'Share Tech Mono', monospace;
     font-family: 'Share', cursive;
 	font-weight: 400;
 	/*color: white;*/
