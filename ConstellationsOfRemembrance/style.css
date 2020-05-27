@@ -205,8 +205,33 @@ fly-in-text {
   word-spacing: 1.5px;
 }
 
+a:link {
+  color: #162280;
+  text-decoration: none;
+}
 
+a:hover {
+  color: white;
+  }
 
+.button {
+ 
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  font-family: 'Quicksand', sans-serif;
+  margin:0 auto;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.button:hover {opacity: 1}
 
 /*a:link, a:visited {
   background-color: #FDA3C0;
