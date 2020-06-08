@@ -8,6 +8,7 @@ let toggle = true
 const description = ["In December 2019, a novel coronavirus strain (SARS-CoV-2) emerged in the city of Wuhan, China.", " This website documents the response of the Dubai Instute of Design and Innovation  (DIDI) to the Corona Virus Pandemic."]
 const shields = ['black_virus', 'white_virus', 'orange_virus']
 const homepages = ['../ConstellationsOfRemembrance/index.html','../DesignForEmergency/intro.html','../HackingManufacture/intro.html']
+file:///C:/Users/Sayjel.Patel/Documents/GitHub/covid-19-response/ConstellationsOfRemembrance/index.html     
 
 
 $("#test").click(function() {
@@ -61,7 +62,7 @@ const descriptions = [
 ]
 
 const teams = [
-    "Aysha, Shamma, Rafif, Nivea Noronha, Abdelrahman, Rana, Alyazia, Asma, Anika, Jawahir, Hussain D., Moza, Hala, Noora, Shouq, Akshat, Hussain A., Maryam H., Dalal",
+    "Aysha,  Mona, Shamma, Rafif, Nivea Noronha, Abdelrahman, Rana, Alyazia, Asma, Anika, Jawahir, Hussain D., Moza, Hala, Noora, Shouq, Akshat, Hussain A., Maryam H., Dalal",
     "Amber, Hoor Bakhit, Ahsan Murad, Baazim, Phillip, Shahzaadee, Fatima A, Maryam, Shamma A, Latifa Alsuwaidi, Meera, Mariam A, Aysha A, Arnav, Zeina, Mohammad, Yangkai",
     "Sana, Aditi, Noor, Nour, Agma, Waleed, Latifa Alkhouri, Valeria, Alexandra, Media, Zaver, Dalilah"
 
@@ -152,8 +153,8 @@ window.onload = function() {
 
         // let hidden = "#" + i + '_desc_text'
         // $(hidden).hide()
-        hidden = "#" + i + '_team_text'
-        $(hidden).hide()
+        // hidden = "#" + i + '_team_text'
+        // $(hidden).hide()
 
 
     }
@@ -219,8 +220,8 @@ window.onload = function() {
 
         $("#project-title").text(key)
         $("#project-description").text(projectDescriptions[id])
-        console.log('src:', projectLinks[key], key, projectLinks['CoLive20'])
-        document.getElementById('player').src = projectLinks[key]
+        // console.log('src:', projectLinks[key], key, projectLinks['CoLive20'])
+        // document.getElementById('player').src = projectLinks[key]
 
     }
 
