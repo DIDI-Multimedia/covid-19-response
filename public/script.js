@@ -7,7 +7,7 @@ let toggle = true
 
 const description = ["In December 2019, a novel coronavirus strain (SARS-CoV-2) emerged in the city of Wuhan, China.", " This website documents the response of the Dubai Instute of Design and Innovation  (DIDI) to the Corona Virus Pandemic."]
 const shields = ['black_virus', 'white_virus', 'orange_virus']
-const homepages = ['../ConstellationsOfRememberance/index.html','../DesignForEmergency/intro.html','../HackingManufacture/intro.html']
+const homepages = ['../ConstellationsOfRemembrance/index.html','../DesignForEmergency/intro.html','../HackingManufacture/intro.html']
 
 
 $("#test").click(function() {
