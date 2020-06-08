@@ -6,6 +6,8 @@ let toggle = true
 const description = ["In December 2019, a novel coronavirus strain (SARS-CoV-2) emerged in the city of Wuhan, China.", " This website documents the response of the Dubai Instute of Design and Innovation  (DIDI) to the Corona Virus Pandemic."]
 const shields =['black_virus','white_virus','orange_virus']
 
+const homepage =['../ConstellationsOfRemembrance/index.html','../ConstellationsOfRemembrance/index.html','../ConstellationsOfRemembrance/index.html']
+
 
 $("#test").click(function() {
 
