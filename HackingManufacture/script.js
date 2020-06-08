@@ -1,13 +1,10 @@
 // DEFINE JQUERY ELEMENTS
 console.log('load JQUERY')
 
-
-
 let toggle = true
 
 const description = ["In December 2019, a novel coronavirus strain (SARS-CoV-2) emerged in the city of Wuhan, China.", " This website documents the response of the Dubai Instute of Design and Innovation  (DIDI) to the Corona Virus Pandemic."]
-const shields = ['black_virus', 'white_virus', 'orange_virus']
-const homepages = ['../ConstellationsOfRememberance/index.html','../DesignForEmergency/intro.html','../HackingManufacture/intro.html']
+const shields =['black_virus','white_virus','orange_virus']
 
 
 $("#test").click(function() {
@@ -27,11 +24,11 @@ $("#test").click(function() {
 
 });
 
-const subProjects = ['Constellations_of_Rememberance', 'CoLive20', 'ProteC19']
+const subProjects = ['Constellations_of_Rememberance','CoLive20', 'ProteC19']
 
 const projectDescriptions = [
 
-    'coming soon',
+ 'coming soon',
     "CoLive 20 is a digital platform that serves as an online interactive community and emotional data repository. During this unusual experience of social isolation, our service aims to connect community members through online activities. While promoting inclusion and connection in this era of social isolation, Colive-20 simultaneously serves as a digital museum for future reflection by documenting the emotional impacts of this new normal. The collected emotional data will also be useful for examining mental health impacts of the epidemic. Our solution is responding to the current mental health emergency by providing people an elevated method to form connections, empathize with others and encourage shared experiences in this time of crisis.",
 
     'coming soon'
@@ -42,9 +39,9 @@ const projectDescriptions = [
 const projectLinks = {
 
 
-    Constellations_of_Rememberance: 'https://www.youtube.com/embed/RWijiK_UPww',
+    Constellations_of_Rememberance:'https://www.youtube.com/embed/RWijiK_UPww',
     CoLive20: 'https://www.youtube.com/embed/cte12oz9wBE',
-    ProteC19: 'https://www.youtube.com/embed/oT26vv8KRRU',
+    ProteC19: 'https://www.youtube.com/watch?v=oT26vv8KRRU&feature=youtu.be',
 
 }
 
@@ -88,21 +85,21 @@ window.onload = function() {
     $('#project').hide()
 
     // Call.loadTemplate() on the target container
-    // var fullscreen = document.getElementById('play-fullscreen')
-    var player = document.getElementById('player')
+    var fullscreen = document.getElementById('play-fullscreen'),
+    player = document.getElementById('player');
 
-    // fullscreen.addEventListener('click', function(e) {
-    //     if (~player.src.indexOf('?')) player.src += '&autoplay=1';
-    //     else player.src += '?autoplay=1';
+    fullscreen.addEventListener('click', function(e) {
+        if (~player.src.indexOf('?')) player.src += '&autoplay=1';
+        else player.src += '?autoplay=1';
 
-    //     var req = player.requestFullscreen ||
-    //         player.webkitRequestFullscreen ||
-    //         player.mozRequestFullScreen ||
-    //         player.msRequestFullscreen;
+        var req = player.requestFullscreen ||
+            player.webkitRequestFullscreen ||
+            player.mozRequestFullScreen ||
+            player.msRequestFullscreen;
 
-    //     req.call(player);
-    //     e.preventDefault();
-    // });
+        req.call(player);
+        e.preventDefault();
+    });
 
 
 
@@ -117,11 +114,11 @@ window.onload = function() {
 
 
 
-    $("#message").Loadingdotdotdot({
-        "speed": 400,
-        "maxDots": 4,
-        "word": 'DIDIs response to the C19 global pandemic'
-    });
+    // $("#message").Loadingdotdotdot({
+    //     "speed": 400,
+    //     "maxDots": 4,
+    //     "word": description
+    // });
 
     var template = document.getElementById("template").text;
     var content = document.getElementById("target");
@@ -142,7 +139,7 @@ window.onload = function() {
             .replace('Description Text', descriptions[i])
             .replace('Team Text', teams[i])
             .replace('shieldimg', shields[i])
-          .replace('homepagelink', homepages[i])
+
 
 
 
@@ -150,8 +147,8 @@ window.onload = function() {
         element.innerHTML = a
         target.appendChild(element)
 
-        // let hidden = "#" + i + '_desc_text'
-        // $(hidden).hide()
+        let hidden = "#" + i + '_desc_text'
+        $(hidden).hide()
         hidden = "#" + i + '_team_text'
         $(hidden).hide()
 
@@ -182,7 +179,7 @@ window.onload = function() {
 
             $(element).fadeOut()
 
-            if (bol) fadeOutArr(['#message', '#sketch-div', '.col-template'])//'.tcontainer'
+            if (bol) fadeOutArr(['#message', '#sketch-div','.tcontainer','.col-template'])
 
 
         } else {
@@ -191,7 +188,7 @@ window.onload = function() {
 
             updateProject(parseInt(data[0]))
 
-            if (bol) fadeInArr(['#message', '#sketch-div', '.col-template']) //'.tcontainer'
+            if (bol) fadeInArr(['#message', '#sketch-div','.tcontainer','.col-template'])
 
 
         }
@@ -235,18 +232,6 @@ window.onload = function() {
         arr.forEach(id => $(id).fadeOut())
 
     }
-
-    fadeAll()
-
-function fadeAll() {
-
-    console.log('fade all')
-
-    $("body").hide();
-    $("#element").fadeOut()
-    $("body").fadeIn('slow');
-
-}
 
 
 
