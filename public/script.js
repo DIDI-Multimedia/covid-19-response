@@ -141,7 +141,7 @@ window.onload = function() {
             .replace('Description Text', descriptions[i])
             .replace('Team Text', teams[i])
             .replace('shieldimg', shields[i])
-  .replace('homepagelink', projectLinks[i])
+
 
 
 
